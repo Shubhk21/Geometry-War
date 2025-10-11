@@ -11,11 +11,6 @@ Simple game made using **C++ (SFML)** which uses **ECS game architecture** built
 
 ---
 
-## Files
-*(You can list key source files here, such as: `main.cpp`, `Game.cpp`, components, systems, etc.)*
-
----
-
 ## How to Run
 1. Clone the repository to your local machine.
 2. Set up **SFML** in your development environment (e.g., link against SFML’s graphics, window, and system modules).
