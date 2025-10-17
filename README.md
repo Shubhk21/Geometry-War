@@ -22,15 +22,3 @@ Simple game made using **C++ (SFML)** which uses **ECS game architecture** built
 ## About
 This project demonstrates how to architect a simple game using modern patterns—combining multimedia rendering with clean, scalable code design. It’s ideal for developers looking to understand how ECS can structure game logic clearly and flexibly.
 
----
-
-## Potential Enhancements
-- Add **README with build instructions** specific to Visual Studio, CMake, or Makefiles.
-- Implement **visual debugging** for entity systems (e.g., drawing bounding boxes).
-- Make the project modular enough to serve as a **starting template** for 2D game prototypes.
-
----
-
-## License
-*(Specify your license here—e.g., MIT, Apache 2.0, or “All rights reserved”)*
-
